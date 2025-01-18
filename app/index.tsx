@@ -1,8 +1,11 @@
+import { Link } from 'expo-router';
 import { View, Text } from 'react-native';
 const ComponentsApp = () => {
   return (
     <View>
-      <Text>ComponentsApp</Text>
+     {
+      
+     }
     </View>
   );
 };
